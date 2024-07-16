@@ -38,6 +38,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .destination:hover h2 {
